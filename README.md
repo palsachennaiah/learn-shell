@@ -1,7 +1,4 @@
 # learn-shell
 
-Shell Scripting Topics:
-----------------------
 
-1. comments
-2. Printings
+List of shell Scripting Topics.
