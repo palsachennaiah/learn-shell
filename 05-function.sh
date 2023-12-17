@@ -2,4 +2,4 @@ sample() {
   echo Hello
 }
 
-smple
+sample
