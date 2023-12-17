@@ -12,7 +12,7 @@ while [ "$a" -gt 0 ]; do
   sleep 1
 done
 
-for fruitin apple banana orange ; do
+for fruit in apple banana orange ; do
  echo Fruit Name - $fruit
  sleep 1
 done
